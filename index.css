@@ -41,7 +41,10 @@ body {
 
 .button {
   text-align: center;
+  box-shadow: 3px 3px #999;
+  background-color: whitesmoke;
   font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px;
 }
 
 .row {
