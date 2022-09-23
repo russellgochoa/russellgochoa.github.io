@@ -42,6 +42,7 @@ body {
 
 .russ-image {
   display: flex;
+  display: inline-block;
   flex-direction: row;
   justify-content: left;
   /* margin: auto; */
@@ -72,12 +73,12 @@ body {
   /* padding: 0 4px; */
 }
 
-#projects {
+/* #projects {
   padding: 0;
   display: flex;
   flex-direction: row;
   justify-content: center;
-}
+} */
 
 #headline {
     padding-top: 5%;
