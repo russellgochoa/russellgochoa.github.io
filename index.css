@@ -42,8 +42,6 @@ body {
 
 .russ-image {
   display: flex;
-  display: inline-block;
-  vertical-align: center;
   flex-direction: row;
   justify-content: left;
   /* margin: auto; */
