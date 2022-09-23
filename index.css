@@ -39,6 +39,18 @@ body {
   text-decoration: none;
 }
 
+.russ-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  /* margin: auto; */
+  /* width: 80%; */
+  /* text-align: center; */
+  align-self: center;
+  text-align: center;
+  text-decoration: none;
+}
+
 .button {
   text-align: center;
   box-shadow: 3px 3px #999;
