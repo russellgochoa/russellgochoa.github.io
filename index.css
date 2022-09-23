@@ -30,7 +30,7 @@ body {
 .russ-container {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: left;
   /* margin: auto; */
   /* width: 80%; */
   /* text-align: center; */
@@ -58,16 +58,18 @@ body {
   /* padding: 0 4px; */
 }
 
-#headline {
-    padding-top: 5%;
-}
-
 #projects {
   padding: 0;
   display: flex;
   flex-direction: column;
-  justify-content: left;
+  justify-content: center;
 }
+
+#headline {
+    padding-top: 5%;
+}
+
+
 
 a {
   text-decoration: none;
