@@ -42,7 +42,7 @@ body {
 .russ-text {
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: center;
   /* margin: auto; */
   /* width: 80%; */
   /* text-align: center; */
