@@ -14,10 +14,20 @@ body {
   vertical-align: middle;
 }
 
+.russ-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  text-decoration: none;
+}
+
 .container {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   /* width: 80%;
   margin-right: 20px;
   align-self: center;
@@ -25,20 +35,10 @@ body {
   text-decoration: none; */
 }
 
-
 .russ-image {
   display: flex;
   flex-direction: column;
   justify-content: left;
-  align-self: center;
-  text-align: center;
-  text-decoration: none;
-}
-
-.russ-text {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-self: center;
   text-align: center;
   text-decoration: none;
