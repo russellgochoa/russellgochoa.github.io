@@ -68,7 +68,7 @@ a {
   text-decoration: none;
 }
 
-/* footer {
+footer {
   padding-top: 5%;
 }
 
@@ -77,7 +77,7 @@ footer li {
   padding-left: 5%;
   display: flex;
   align-items: center;
-} */
+}
 
 nav, footer {
     background-color: #dddddd;
