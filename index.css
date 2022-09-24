@@ -42,7 +42,7 @@ body {
 
 .russ-image {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: left;
   /* margin: auto; */
   /* width: 80%; */
@@ -62,7 +62,7 @@ body {
 #projects {
   padding: 0;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
 }
 
