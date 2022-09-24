@@ -44,6 +44,10 @@ body {
   text-decoration: none;
 }
 
+.projects {
+  padding-left: 20px;
+}
+
 
 .row {
   display: flex;
@@ -51,9 +55,7 @@ body {
   /* padding: 0 4px; */
 }
 
-#projects {
-  padding-left: 20px;
-}
+
 
 #headline {
     padding-top: 5%;
